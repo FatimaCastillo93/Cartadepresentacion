@@ -1,0 +1,12 @@
+}
+.container{
+    width:500px;
+    height:500px;
+    outline:2px solid blueviolet;
+    margin: 30px auto;
+    display: flex;
+    flex-flow:row nowrap;
+    justify-content: space-evenly;
+}
+    
+]
